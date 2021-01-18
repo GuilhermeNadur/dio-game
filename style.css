@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(33, 63, 127);
+}
+
+.title {
+    color: white;
+    text-align: center;
+    margin-top: 100px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+    font-size: 50px;
+}
+
+#instruction {
+    color: white;
+    text-align: center;
+    margin-top: 70px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 700;
+}
+
+#megaman1 {
+    width: 160px;
+    height: 180px;
+    background-image: url(megaman1.gif);
+    position: absolute;
+    bottom: 0;
+    margin-bottom: 5px;
+}
+
+#megaman2 {
+    width: 180px;
+    height: 180px;
+    background-image: url(megaman2.gif);
+    position: absolute;
+    bottom: 0;
+    display: none;
+}
+
+#megaman3 {
+    width: 225px;
+    height: 225px;
+    background-image: url(megaman3.gif);
+    position: absolute;
+    bottom: 0;
+    display: none;
+}
+
+.box {
+    width: 48px;
+    height: 48px;
+    background: white;
+    position: absolute;
+    bottom: 0;
+}
+
+.game-over {
+    color: white;
+    text-align: center;
+    margin-top: 350px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-transform: uppercase;
+    font-weight: 700;
+}
+
+.buttonJogar, .buttonReiniciar {
+    background-color: rgb(49, 49, 49);
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    border-radius: 6px;
+    cursor: pointer;
+    border: none;
+}
+
+#divButtonJogar {
+    text-align: center;
+    margin-top: 80px;
+}
+
+.divButtonReiniciar {
+    text-align: center;
+    margin-top: 50px;
+}
+
+#congratulations {
+    color: white;
+    text-align: center;
+    margin-top: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 500;
+    font-size: 30px;
+    display: none;
+}
