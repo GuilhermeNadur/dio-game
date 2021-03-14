@@ -7,3 +7,5 @@ Habilidades demonstradas: HTML, CSS e JS.
 Título: Megaman vs GFT.
 
 Autor: Guilherme Rodrigues Nadur.
+
+![image tagged in gifs | made w/ Imgflip images-to-gif maker](https://i.imgflip.com/51pkwk.gif)
